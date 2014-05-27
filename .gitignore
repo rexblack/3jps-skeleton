@@ -1,0 +1,6 @@
+node_modules
+tmp
+.project
+.README.md.html
+build
+src/lib
